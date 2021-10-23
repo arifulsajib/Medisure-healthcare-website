@@ -1,0 +1,50 @@
+[
+  {
+    "id": "001",
+    "name": "Blood Analisys",
+    "openDays": "Everyday",
+    "countDoctors": 4,
+    "details": "We have Specialized doctors to anlalize your blood. You may have blood tests to keep track of how well you are managing a condition such as diabetes or high cholesterol. You may also have them for routine checkups or when you are ill. Blood tests are very common.",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/healthService/service1.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Cancer Treatment",
+    "openDays": "Mon-Fri",
+    "countDoctors": 5,
+    "details": "Many procedures and drugs are available to treat cancer, with many more being studied. we provide treatments like surgery and radiation therapy, which are used to treat a specific tumor or area of the body. Drug treatments (such as chemotherapy, immunotherapy, or targeted therapy) are often called systemic treatments .",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/healthService/service2.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Hair Transplantation",
+    "openDays": "Fri-Sun",
+    "countDoctors": 2,
+    "details": "Hair transplantation is a surgical technique that removes hair follicles from one part of the body, called the 'donor site', to a bald or balding part of the body known as the 'recipient site'. The technique is primarily used to treat male pattern baldness. We have the best doctors for the treatment",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/healthService/service3.png"
+  },
+  {
+    "id": "004",
+    "name": "Skin Problems",
+    "openDays": "Mon-Thu",
+    "countDoctors": 3,
+    "details": "Skin disorders vary greatly in symptoms and severity. They can be temporary or permanent, and may be painless or painful. Some have situational causes, while others may be genetic. Some skin conditions are minor, and others can be life-threatening. We have specilized doctors",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/healthService/service4.png"
+  },
+  {
+    "id": "005",
+    "name": "Eye Treatment",
+    "openDays": "Fri-Sun",
+    "countDoctors": 4,
+    "details": "Eye is a very sensitive part of our body. Eye problems can involve any and all of these parts like Cornea, Iris, Lens etc. Come to us and we will provide the best treatment for you. ",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/healthService/service5.png"
+  },
+  {
+    "id": "006",
+    "name": "Pregnancy Care",
+    "openDays": "Everyday",
+    "countDoctors": 7,
+    "details": "Your care during pregnancy (antenatal care) can be provided by a midwife, hospital doctor, GP or obstetrician or a combination of these. You will get the best care possible in our Clinic. Do come to us.",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/healthService/service6.jpg"
+  }
+]

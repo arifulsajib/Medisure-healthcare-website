@@ -1,0 +1,38 @@
+html,
+body,
+#root,
+.App {
+  height: 100vh;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.default-btn {
+  background-color: #482576;
+  width: 150px;
+  height: 35px;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border: 2px solid #482576;
+  background-color: white;
+  color: #482576;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.default-btn:hover {
+  background-color: #482576;
+  color: white;
+}
+
+.blue-color {
+  color: rgb(2, 2, 99);
+}
+
+.bluish-bg {
+  background-color: #e7f0f2;
+}

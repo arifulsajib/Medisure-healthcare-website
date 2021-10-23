@@ -1,0 +1,10 @@
+.fixed-height {
+  height: calc(100vh - 60px);
+  width: 100%;
+}
+
+.caption {
+  font-size: 1.4rem;
+  background: rgba(168, 197, 209, 0.459);
+  border-radius: 12px;
+}
